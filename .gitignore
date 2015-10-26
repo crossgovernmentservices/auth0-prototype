@@ -1,2 +1,3 @@
 .envpubring.gpg~
 secring.gpg
+/auth0.yml
